@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <malloc.h>
+#include <string.h>
+#include "ELTPRIM.H"
+#include "ELTSDD.H"
+
+
+int main()
+{
+
+  ELEMENT e = elementcreer();
+
+ elementlire(&e);
+ elementafficher (e);
+
+
+
+
+}

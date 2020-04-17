@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1587140771 source:c:\users\asus\documents\projet22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.H"
+	"ELTSDD.H"
+	"TABPRIM.H"
+	"LSTPRIM.H"
+	<math.h>
+
+1586814548 source:c:\users\asus\documents\projet22\eltatm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.H"
+
+1585751946 c:\users\asus\documents\projet22\eltprim.h
+	"ELTSDD.H"
+
+1585750563 c:\users\asus\documents\projet22\eltsdd.h
+	"ELTATM.H"
+
+1586622997 c:\users\asus\documents\projet22\eltatm.h
+
+1587123320 source:c:\users\asus\documents\projet22\lstatm.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+
+1585832756 c:\users\asus\documents\projet22\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1585832756 c:\users\asus\documents\projet22\lstsdd.h
+	"LSTATM.H"
+
+1585835690 c:\users\asus\documents\projet22\lstatm.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+
+1587020998 source:c:\users\asus\documents\projet22\elttab.c
+	<stdio.h>
+	<stdlib.h>
+	<malLoc.h>
+	<string.h>
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+	"TABPRIM.H"
+
+1586347833 c:\users\asus\documents\projet22\tabprim.h
+	"TABSDD.H"
+
+1586042456 c:\users\asus\documents\projet22\tabsdd.h
+	"ELTTAB.H"
+
+1586278265 c:\users\asus\documents\projet22\elttab.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+
